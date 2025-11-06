@@ -51,16 +51,14 @@ npm install
 npm run dev
 
 ---
+---
 
 ## 📸 Screenshot  
 
 **Home Page**  
 
-<p align="center">
-  <img width="90%" src="https://github.com/user-attachments/assets/0ef4bd19-f2f6-403f-87e8-4811a30759d9" alt="GoCart Home Page"/>
-</p>
+![Home Page](https://github.com/user-attachments/assets/0ef4bd19-f2f6-403f-87e8-4811a30759d9)
 
 ---
-
 
 
