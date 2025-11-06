@@ -1,48 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🛒 GoCart – Multi-Vendor E-Commerce Platform
 
-## Getting Started
+GoCart is a **full-stack multi-vendor e-commerce web application** built using **Next.js**.  
+It allows users to create their own online stores, sell products, and manage everything from a powerful admin dashboard.
 
-First, install the dependencies:
+🔗 **Live Demo:**  [https://gocart-ebon.vercel.app](https://gocart-ebon.vercel.app) 
+
+---
+
+## 🚀 Features
+
+- 👥 **Multi-Vendor System:** Users can create their own store and list products online.  
+- ✅ **Admin Approval:** Each new store requires admin approval before going live.  
+- 🔐 **User Authentication:** Secure login and signup using **Clerk**.  
+- 🕓 **Background Jobs & Scheduling:** Managed efficiently with **Inngest**.  
+- 🧾 **Admin Dashboard:** Manage stores, products, users, and discount coupons.  
+- 💳 **Stripe Integration:** Premium subscription and secure checkout/payment gateway.  
+- ☁️ **Image Management:** Product images stored on the cloud using **ImageKit**.  
+- 🗄️ **Database:** **PostgreSQL** hosted on **Neon** for scalable and reliable data storage.  
+- 🌐 **Deployment:** Hosted on **Vercel** for free and easy access online.  
+
+---
+
+## 🧰 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | Next.js, Tailwind CSS |
+| **Backend** | Next.js API Routes, Node.js |
+| **Database** | PostgreSQL (Neon) |
+| **Authentication** | Clerk |
+| **Background Jobs** | Inngest |
+| **Storage** | ImageKit |
+| **Payments** | Stripe |
+| **Deployment** | Vercel |
+
+---
+
+## ⚙️ Installation & Setup
 
 ```bash
+# Clone the repository
+git clone https://github.com/jagritbhaker45/gocart_full_stack.git
+
+# Install dependencies
 npm install
-# or
-yarn install
-# or
-pnpm install
-# or
-bun install
-```
 
-Then, run the development server:
+# Add your environment variables (see .env.example)
 
-```bash
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
