@@ -1,64 +1,43 @@
-# 🛒 GoCart – Multi-Vendor E-Commerce Platform
+🛒 GoCart – Multi-Vendor E-Commerce Platform (Next.js + Clerk + Stripe + Neon)
 
-GoCart is a **full-stack multi-vendor e-commerce web application** built using **Next.js**.  
-It allows users to create their own online stores, sell products, and manage everything from a powerful admin dashboard.
+GoCart is a full-stack multi-vendor e-commerce web application built using Next.js.
+It allows users to create online stores, sell products, and manage everything through a powerful admin dashboard.
 
-🔗 **Live Demo:**  [https://gocart-ebon.vercel.app](https://gocart-ebon.vercel.app) 
+✨ Key Features
 
----
+👥 Multi-Vendor System: Users can create stores and list products online
+✅ Admin Approval: Each store must be approved before going live
+🔐 User Authentication: Secure login and signup using Clerk
+💳 Stripe Integration: Premium subscription and secure checkout
+🕓 Background Jobs: Managed efficiently using Inngest
+🧾 Admin Dashboard: Manage stores, products, users, and coupons
+☁️ Image Management: Product images stored on the cloud using ImageKit
+🗄️ Database: PostgreSQL hosted on Neon for scalability
+🌐 Deployment: Hosted on Vercel for fast and reliable performance
 
-## 🚀 Features
+🛠️ Tech Stack
+Category	Technology
+Frontend	Next.js, Tailwind CSS
+Backend	Next.js API Routes, Node.js
+Database	PostgreSQL (Neon)
+Authentication	Clerk
+Background Jobs	Inngest
+Storage	ImageKit
+Payments	Stripe
+Deployment	Vercel
 
-- 👥 **Multi-Vendor System:** Users can create their own store and list products online.  
-- ✅ **Admin Approval:** Each new store requires admin approval before going live.  
-- 🔐 **User Authentication:** Secure login and signup using **Clerk**.  
-- 🕓 **Background Jobs & Scheduling:** Managed efficiently with **Inngest**.  
-- 🧾 **Admin Dashboard:** Manage stores, products, users, and discount coupons.  
-- 💳 **Stripe Integration:** Premium subscription and secure checkout/payment gateway.  
-- ☁️ **Image Management:** Product images stored on the cloud using **ImageKit**.  
-- 🗄️ **Database:** **PostgreSQL** hosted on **Neon** for scalable and reliable data storage.  
-- 🌐 **Deployment:** Hosted on **Vercel** for free and easy access online.  
+🌐 Live Demo
+gocart-ebon.vercel.app
 
----
+📸 Screenshot
 
-## 🧰 Tech Stack
+📚 About
 
-| Category | Technology |
-|-----------|-------------|
-| **Frontend** | Next.js, Tailwind CSS |
-| **Backend** | Next.js API Routes, Node.js |
-| **Database** | PostgreSQL (Neon) |
-| **Authentication** | Clerk |
-| **Background Jobs** | Inngest |
-| **Storage** | ImageKit |
-| **Payments** | Stripe |
-| **Deployment** | Vercel |
+This project demonstrates how to build a scalable multi-vendor e-commerce platform
+with admin approval, secure payments, and cloud-based product management.
 
----
-
-## ⚙️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/jagritbhaker45/gocart_full_stack.git
-
-# Install dependencies
-npm install
-
-# Add your environment variables (see .env.example)
-
-# Run development server
-npm run dev
-
----
----
-
-## 📸 Screenshot  
-
-![Home Page](https://github.com/user-attachments/assets/34ea4ae8-e2a1-488c-870c-3d2de2c16074)
-
-
-
-
+👨‍💻 Author
+Jagrit
+MTech Student | Full-Stack Developer | AI & Web Enthusiast
 
 
