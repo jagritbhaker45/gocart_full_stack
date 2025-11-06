@@ -57,8 +57,8 @@ npm run dev
 
 **Home Page**  
 
-![Home Page](https://github.com/user-attachments/assets/0ef4bd19-f2f6-403f-87e8-4811a30759d9)
 
----
+
+<img width="1365" height="596" alt="Screenshot 2025-11-06 095533" src="https://github.com/user-attachments/assets/333bda2c-17d1-4561-9eac-9b43da662f77" />
 
 
