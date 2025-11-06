@@ -50,5 +50,17 @@ npm install
 # Run development server
 npm run dev
 
-<img width="1365" height="596" alt="Screenshot 2025-11-06 095533" src="https://github.com/user-attachments/assets/2258f40d-96ee-463b-aaae-7920522e8e4b" />
+---
+
+## 📸 Screenshot  
+
+**Home Page**  
+
+<p align="center">
+  <img width="90%" src="https://github.com/user-attachments/assets/0ef4bd19-f2f6-403f-87e8-4811a30759d9" alt="GoCart Home Page"/>
+</p>
+
+---
+
+
 
