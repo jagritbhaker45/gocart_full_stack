@@ -1,42 +1,42 @@
-# 🛒 GoCart – Multi-Vendor E-Commerce Platform (Next.js + Clerk + Stripe + Neon)
+# 🛒 GoCart – Multi-Vendor E-Commerce Platform 
 
-GoCart is a **full-stack multi-vendor e-commerce web application** built using **Next.js**.  
-It allows users to create online stores, sell products, and manage everything through a powerful admin dashboard.
+GoCart is a full-stack multi-vendor e-commerce platform built using **Next.js**.  
+It allows users to create stores, list products, manage inventory, and sell online through a powerful admin dashboard.
 
 ---
 
 ## ✨ Key Features
 
-- 👥 **Multi-Vendor System:** Users can create stores and list products online  
-- ✅ **Admin Approval:** Each store requires admin verification before going live  
-- 🔐 **User Authentication:** Secure login and signup using **Clerk**  
-- 💳 **Stripe Integration:** Premium subscription and secure checkout  
-- 🕓 **Background Jobs:** Managed efficiently using **Inngest**  
-- 🧾 **Admin Dashboard:** Manage stores, products, users, and discount coupons  
-- ☁️ **Image Management:** Product images stored on the cloud using **ImageKit**  
-- 🗄️ **Database:** **PostgreSQL** hosted on **Neon** for scalability and reliability  
-- 🌐 **Deployment:** Hosted on **Vercel** for fast and reliable performance  
+- **Multi-Vendor System:** Users can create their own stores and list products  
+- **Admin Approval:** Stores go live only after admin verification  
+- **User Authentication:** Secure login/signup using **Clerk**  
+- **Stripe Integration:** Premium subscription + secure checkout  
+- **Background Jobs:** Handled efficiently using **Inngest**  
+- **Admin Dashboard:** Manage stores, products, users, and coupons  
+- **Cloud Storage:** Image uploads and hosting with **ImageKit**  
+- **Database:** **PostgreSQL** hosted on **Neon Serverless**  
+- **Deployment:** Frontend & backend deployed on **Vercel**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Technology |
-|-----------|-------------|
-| **Frontend** | Next.js, Tailwind CSS |
-| **Backend** | Next.js API Routes, Node.js |
-| **Database** | PostgreSQL (Neon) |
-| **Authentication** | Clerk |
-| **Background Jobs** | Inngest |
-| **Storage** | ImageKit |
-| **Payments** | Stripe |
-| **Deployment** | Vercel |
+| Category           | Technology                                   |
+|--------------------|-----------------------------------------------|
+| **Frontend**       | Next.js, Tailwind CSS                         |
+| **Backend**        | Next.js API Routes, Node.js                   |
+| **Database**       | PostgreSQL (Neon Serverless)                  |
+| **Authentication** | Clerk                                         |
+| **Background Jobs**| Inngest                                       |
+| **Storage**        | ImageKit                                      |
+| **Payments**       | Stripe                                        |
+| **Deployment**     | Vercel                                        |
 
 ---
 
 ## 🌐 Live Demo
 
-🔗 **[View App](gocart-ebon.vercel.app)**
+🔗 **https://gocart-ebon.vercel.app**
 
 ---
 
@@ -46,22 +46,24 @@ It allows users to create online stores, sell products, and manage everything th
   <img src="https://github.com/user-attachments/assets/c5b04894-2c29-421d-a305-2d3af374bbde" width="85%" alt="GoCart Home Page">
 </p>
 
-
 ---
 
 ## 📚 About
 
-This project demonstrates how to build a **multi-vendor e-commerce platform**  
-with admin approval, secure payments, background jobs, and cloud image management.  
-It focuses on creating a scalable and production-ready full-stack solution.
+GoCart showcases how to build a modern, full-stack **multi-vendor e-commerce system** with:  
+- Store approval workflows  
+- Cloud-hosted product media  
+- Secure authentication and payments  
+- Scalable serverless database  
+- Production-grade background job handling  
+
+The project focuses on delivering a clean, scalable, and maintainable architecture suitable for real-world deployments.
 
 ---
 
 ## 👨‍💻 Author
 
-**Jagrit**  
-🎓 MTech Student | 💻 Full-Stack Developer | 🤖 AI & Web Enthusiast  
-
-
-
+**Jagrit Bhaker**  
+M.Tech in Computer Science  
+Full-Stack Developer • AI & Web Development Enthusiast  
 
