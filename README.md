@@ -40,13 +40,17 @@ It allows users to create stores, list products, manage inventory, and sell onli
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c5b04894-2c29-421d-a305-2d3af374bbde" width="85%" alt="GoCart Home Page">
-</p>
+### Home Page
+![Home](assets/home.png)
 
----
+### Vendor Dashboard
+![Dashboard](assets/dashboard.png)
+
+### Product Management
+![Products](assets/products.png)
+
 
 ## 📚 About
 
@@ -63,7 +67,7 @@ The project focuses on delivering a clean, scalable, and maintainable architectu
 
 ## 👨‍💻 Author
 
-**Jagrit Bhaker**  
+**Jagrit**  
 M.Tech in Computer Science  
 Full-Stack Developer • AI & Web Development Enthusiast  
 
