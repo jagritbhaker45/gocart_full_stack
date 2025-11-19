@@ -1,11 +1,11 @@
-# 🛒 GoCart – Multi-Vendor E-Commerce Platform 
+#  GoCart – Multi-Vendor E-Commerce Platform 
 
 GoCart is a full-stack multi-vendor e-commerce platform built using **Next.js**.  
 It allows users to create stores, list products, manage inventory, and sell online through a powerful admin dashboard.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Multi-Vendor System:** Users can create their own stores and list products  
 - **Admin Approval:** Stores go live only after admin verification  
@@ -19,7 +19,7 @@ It allows users to create stores, list products, manage inventory, and sell onli
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category           | Technology                                   |
 |--------------------|-----------------------------------------------|
@@ -34,13 +34,13 @@ It allows users to create stores, list products, manage inventory, and sell onli
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 🔗 **https://gocart-ebon.vercel.app**
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Page
 <img width="1344" height="599" alt="image" src="https://github.com/user-attachments/assets/a8abdde4-4253-450b-9a75-1c142cf55535" />
@@ -55,7 +55,7 @@ It allows users to create stores, list products, manage inventory, and sell onli
 
 
 
-## 📚 About
+##  About
 
 GoCart showcases how to build a modern, full-stack **multi-vendor e-commerce system** with:  
 - Store approval workflows  
@@ -68,9 +68,8 @@ The project focuses on delivering a clean, scalable, and maintainable architectu
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Jagrit**  
-M.Tech in Computer Science  
 Full-Stack Developer • AI & Web Development Enthusiast  
 
