@@ -43,13 +43,16 @@ It allows users to create stores, list products, manage inventory, and sell onli
 ## 📸 Screenshots
 
 ### Home Page
-![Home](assets/home.png)
+<img width="1344" height="599" alt="image" src="https://github.com/user-attachments/assets/a8abdde4-4253-450b-9a75-1c142cf55535" />
+
 
 ### Vendor Dashboard
-![Dashboard](assets/dashboard.png)
+<img width="1364" height="497" alt="image" src="https://github.com/user-attachments/assets/ee2ef8c8-9044-4680-9d88-f963376fe0b5" />
+
 
 ### Product Management
-![Products](assets/products.png)
+<img width="1342" height="600" alt="image" src="https://github.com/user-attachments/assets/9bf157e6-3b0b-4677-9fbc-7e0b2e2df9e8" />
+
 
 
 ## 📚 About
